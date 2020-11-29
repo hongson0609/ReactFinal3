@@ -1,0 +1,10 @@
+.home-page {
+  text-align: center;
+  margin-top: 50px;
+  background-color: bisque;
+}
+.home-page  h1 {
+  margin-bottom: 20px;
+  border: solid;
+  padding : 10px;
+}
